@@ -1,0 +1,9 @@
+{
+    "best_lgb_value": 9453833.333333334,
+    "best_lgb_params": {
+        "n_estimators": 1000,
+        "learning_rate": 0.08927180304353628,
+        "max_depth": 8,
+        "num_leaves": 160
+    }
+}
