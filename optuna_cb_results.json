@@ -1,0 +1,9 @@
+{
+    "best_cb_value": 9030666.666666666,
+    "best_cb_params": {
+        "iterations": 2000,
+        "learning_rate": 0.0666041862700852,
+        "depth": 7,
+        "l2_leaf_reg": 7
+    }
+}
